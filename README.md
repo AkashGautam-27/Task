@@ -151,13 +151,9 @@ The project compiles into standard static HTML, CSS, and JS bundles inside the `
 ## 📹 Preview & Demos
 
 ### Live Demo
-[Live Demo Link (Placeholder)](#)
+[Live Demo Link (https://ai-data-pilot.vercel.app/)](#)
 
-### Screenshots
-![Application Preview (Placeholder)](/src/assets/hero.png)
 
-### Demo Video
-[Demo Walkthrough Video (Placeholder)](#)
 
 ---
 
