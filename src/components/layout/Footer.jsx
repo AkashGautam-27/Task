@@ -40,7 +40,7 @@ export const Footer = memo(function Footer() {
             {/* Social Icons using uploaded SVGs */}
             <div className="flex items-center gap-3 mt-2">
               <a 
-                href="https://github.com" 
+                href="https://github.com/AkashGautam-27/Task" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-11 h-11 rounded-xl flex items-center justify-center border border-brand-mint/10 hover:border-brand-forsythia/50 hover:bg-brand-nocturnal/20 transition-all text-brand-mint/70 hover:text-brand-forsythia flex-shrink-0"
@@ -49,7 +49,7 @@ export const Footer = memo(function Footer() {
                 <Icon name="link-solid" className="w-6.5 h-6.5" />
               </a>
               <a 
-                href="https://slack.com" 
+                href="https://github.com/AkashGautam-27/Task" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-11 h-11 rounded-xl flex items-center justify-center border border-brand-mint/10 hover:border-brand-forsythia/50 hover:bg-brand-nocturnal/20 transition-all text-brand-mint/70 hover:text-brand-forsythia flex-shrink-0"
@@ -58,7 +58,7 @@ export const Footer = memo(function Footer() {
                 <Icon name="arrow-path" className="w-6.5 h-6.5" />
               </a>
               <a 
-                href="https://gitlab.com" 
+                href="https://github.com/AkashGautam-27/Task" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-11 h-11 rounded-xl flex items-center justify-center border border-brand-mint/10 hover:border-brand-forsythia/50 hover:bg-brand-nocturnal/20 transition-all text-brand-mint/70 hover:text-brand-forsythia flex-shrink-0"

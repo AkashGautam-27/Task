@@ -73,7 +73,7 @@ export const Header = memo(function Header() {
           {/* Desktop Actions */}
           <div className="hidden md:flex items-center gap-3">
             <a 
-              href="https://github.com" 
+              href="https://github.com/AkashGautam-27/Task" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-11 h-11 rounded-xl flex items-center justify-center border border-brand-mint/10 hover:border-brand-mint/30 hover:bg-brand-nocturnal/20 transition-all text-brand-mint/80 hover:text-brand-mint flex-shrink-0"
@@ -139,7 +139,7 @@ export const Header = memo(function Header() {
               </ul>
               <div className="border-t border-brand-mint/5 pt-5 mt-2 flex flex-col gap-4">
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/AkashGautam-27/Task" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-brand-mint hover:text-brand-forsythia font-semibold transition-colors"
