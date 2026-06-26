@@ -9,6 +9,13 @@ The **AI Data Automation Platform** is a high-performance, developer-first landi
 
 ---
 
+## 📹 Preview & Demos
+
+### Live Demo
+[Live Demo Link] (https://ai-data-pilot.vercel.app/)
+
+
+
 ## ✨ Feature List
 *   **Premium Hero Section**: Responsive headlines, action buttons with hover animations, and a live-ticking launch countdown.
 *   **Interactive Bento Grid**: Dynamic capability dashboard displaying cluster metrics on hover.
@@ -147,13 +154,6 @@ npm run lint
 The project compiles into standard static HTML, CSS, and JS bundles inside the `dist` directory. The output can be uploaded to any static file hosting platform, such as Vercel, Netlify, Cloudflare Pages, or GitHub Pages.
 
 ---
-
-## 📹 Preview & Demos
-
-### Live Demo
-[Live Demo Link] (https://ai-data-pilot.vercel.app/)
-
-
 
 ---
 
