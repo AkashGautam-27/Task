@@ -151,7 +151,7 @@ The project compiles into standard static HTML, CSS, and JS bundles inside the `
 ## 📹 Preview & Demos
 
 ### Live Demo
-[Live Demo Link (https://ai-data-pilot.vercel.app/)](#)
+[Live Demo Link] (https://ai-data-pilot.vercel.app/)
 
 
 
